@@ -40,5 +40,5 @@ client.on("messageCreate", async (message) => {
                 );
             message.channel.send({ embeds: [helpEmbed] });
             break;
-    }
+    }//hi
 });
