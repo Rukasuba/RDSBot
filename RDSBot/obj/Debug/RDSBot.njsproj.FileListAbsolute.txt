@@ -1,0 +1,3 @@
+C:\Users\vbandeira\source\repos\RDSBot\RDSBot\obj\Debug\RDSBot.njsproj.AssemblyReference.cache
+C:\Users\vbandeira\source\repos\RDSBot\RDSBot\obj\Debug\RDSBot.njsproj.CoreCompileInputs.cache
+C:\Users\vbandeira\source\repos\RDSBot\RDSBot\bin\Microsoft.NodejsTools.WebRole.dll

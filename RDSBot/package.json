@@ -1,0 +1,18 @@
+{
+  "name": "rdsbot",
+  "version": "0.0.0",
+  "description": "RDSBot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "date-and-time": "^3.0.2",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
